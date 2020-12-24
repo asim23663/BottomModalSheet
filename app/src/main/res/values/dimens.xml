@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_corner_radius">22dp</dimen>
+
+    <!--Text Sizes-->
+    <dimen name="text_size_small">@dimen/_10ssp</dimen>
+    <dimen name="text_size_normal">@dimen/_12ssp</dimen>
+    <dimen name="text_size_bigger">@dimen/_14ssp</dimen>
+    <dimen name="text_size_extra_bigger">@dimen/_16ssp</dimen>
+
+    <dimen name="padding_small">@dimen/_4sdp</dimen>
+    <dimen name="padding_normal">@dimen/_8sdp</dimen>
+    <dimen name="padding_large">@dimen/_12sdp</dimen>
+    <dimen name="bottom_nav_margin">@dimen/_48sdp</dimen>
+    <dimen name="margin_small">@dimen/_4sdp</dimen>
+    <dimen name="margin_normal">@dimen/_8sdp</dimen>
+    <dimen name="margin_large">@dimen/_12sdp</dimen>
+    <dimen name="margin_extra_large">@dimen/_18sdp</dimen>
+    <dimen name="margin_xx_large">@dimen/_24sdp</dimen>
+
+    <!--Images Sizes-->
+    <dimen name="img_icon_size">@dimen/_24sdp</dimen>
+    <dimen name="img_small_icon_size">@dimen/_18sdp</dimen>
+    <dimen name="img_small_size">@dimen/_50sdp</dimen>
+    <dimen name="img_80_size">@dimen/_80sdp</dimen>
+    <dimen name="img_normal_size">@dimen/_100sdp</dimen>
+    <dimen name="img_bigger_size">@dimen/_170sdp</dimen>
+
+
+    <dimen name="vid_view_size">@dimen/_230sdp</dimen>
+    <dimen name="cv_normal_size">@dimen/_200sdp</dimen>
+    <dimen name="cv_small_size">@dimen/_150sdp</dimen>
+    <dimen name="cv_radius_normal">@dimen/_8sdp</dimen>
+    <dimen name="cv_radius_large">@dimen/_16sdp</dimen>
+    <dimen name="cv_radius_small">@dimen/_4sdp</dimen>
+    <dimen name="cv_elevation_small">@dimen/_4sdp</dimen>
+    <dimen name="cv_elevation_normal">@dimen/_8sdp</dimen>
+    <dimen name="height_30">@dimen/_30sdp</dimen>
+    <dimen name="height_40">@dimen/_40sdp</dimen>
+    <dimen name="height_50">@dimen/_50sdp</dimen>
+    <dimen name="height_60">@dimen/_60sdp</dimen>
+    <dimen name="height_200">@dimen/_200sdp</dimen>
+</resources>
