@@ -70,7 +70,7 @@ class BottomSheetFragment : BottomSheetDialogFragment() {
         }
     }
 
-    fun showSnackBar(msg: String) {
+    private fun showSnackBar(msg: String) {
         Snackbar.make(binding.coordinatorLayout, msg, Snackbar.LENGTH_LONG)
             .show();
     }
@@ -80,10 +80,7 @@ class BottomSheetFragment : BottomSheetDialogFragment() {
         mBinding = null
     }
 
-    override fun onStart() {
-        super.onStart()
 
-    }
 
     private val mBottomSheetBehaviorCallback: BottomSheetCallback = object : BottomSheetCallback() {
         override fun onStateChanged(bottomSheet: View, newState: Int) {
